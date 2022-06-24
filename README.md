@@ -1,16 +1,10 @@
-# cupertino_store
+# Cupertino Store | Apple store
 
-A new Flutter project.
+this is simple apple guideline UI
 
-## Getting Started
+## Output
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![c1](https://user-images.githubusercontent.com/90972632/175457133-aa8eae9e-ed08-4eaf-87fa-0e0532808ce9.jpg)
+![c2](https://user-images.githubusercontent.com/90972632/175457142-0920d17d-92d7-4ad5-a783-7f81c72d7e97.jpg)
+![c3](https://user-images.githubusercontent.com/90972632/175457147-be28e00d-12e1-4bf8-a757-e66e55d2a45d.jpg)
